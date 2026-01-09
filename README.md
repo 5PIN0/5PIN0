@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm Sergio, an 18-year-old aspiring full-stack developer and Ethical Hacker.<br>I'm passionate about Cybersecurity building practical tech solutions — from mobile apps with React Native to backend APIs using ASP.NET Core or Python, all connected to MySQL databases. I also enjoy working with server systems like NFS, Samba, and LDAP, as well as web development using PHP, HTML, CSS, and React.<br><br>🔧 Currently working on projects like:<br><br>Personal development proyect<br><br>Interactive web tools with real-world functionality<br><br>🚀 Always eager to learn more about systems, infrastructure, and how to bridge software with real-world applications.<br>
+👋 Hey! I'm Sergio, an 18-year-old aspiring to be a graduate of health engineering.<br>I'm passionate about building practical tech solutions — from mobile apps with React Native to backend APIs using ASP.NET Core or Python, all connected to MySQL databases. I also enjoy working with server systems like NFS, Samba, and LDAP, as well as web development using PHP, HTML, CSS, and React.<br><br>🔧 Currently working on projects like:<br><br>Personal development proyect<br><br>Interactive web tools with real-world functionality<br><br>🚀 Always eager to learn more about systems, infrastructure, and how to bridge software with real-world applications.<br>
 
 
 ## 🌐 Socials:
